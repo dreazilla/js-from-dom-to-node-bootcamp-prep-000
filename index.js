@@ -1,1 +1,2 @@
-// write your code below!
+// write javascript
+console.log('Hello, World!');
